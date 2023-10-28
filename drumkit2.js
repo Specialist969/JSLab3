@@ -19,7 +19,7 @@ function sound(key) {
       case "e": 
         var sound3 = new Audio('sounds/hihat.wav'); 
         sound3.play(); 
-        break; 
+        break;
     
       case "r": 
         var sound4 = new Audio('sounds/kick.wav'); 
